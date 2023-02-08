@@ -1,0 +1,69 @@
+[1mdiff --git a/dist/index.html b/dist/index.html[m
+[1mindex c461ddc..f903525 100644[m
+[1m--- a/dist/index.html[m
+[1m+++ b/dist/index.html[m
+[36m@@ -44,19 +44,19 @@[m
+ [m
+       <section class="sponsors">[m
+         <div class="container-sponsors">[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/fb.png" alt="" srcset="" />[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/stripe.png" alt="" srcset="" />[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/apple.png" alt="" srcset="" />[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/fitbit.png" alt="" srcset="" />[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/buzzfeed.png" alt="" srcset="" />[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/sega.png" alt="" srcset="" />[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/dropbox.png" alt="" srcset="" />[m
+[31m-          <img class="intro-img wow animate__animated animate__flipInX" src="icons/icons-sponsors/google.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/fb.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/stripe.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/apple.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/fitbit.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/buzzfeed.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/sega.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/dropbox.png" alt="" srcset="" />[m
+[32m+[m[32m          <img class="intro-img" src="icons/icons-sponsors/google.png" alt="" srcset="" />[m
+         </div>[m
+       </section>[m
+ [m
+       <section class="class">[m
+[31m-        <div class="class-text wow animate__animated animate__jackInTheBox">[m
+[32m+[m[32m        <div class="class-text">[m
+           <div class="wrapper-text">[m
+             <h4 class="class-text__title">What is a Class?</h4>[m
+             <p class="class-text__p">[m
+[36m@@ -69,7 +69,7 @@[m
+           </div>[m
+         </div>[m
+ [m
+[31m-        <div class="class-img-one wow animate__animated animate__jackInTheBox">[m
+[32m+[m[32m        <div class="class-img-one">[m
+           <div class="wrapper-img-one">[m
+             <figure>[m
+               <img src="images/class-1.png" alt="" srcset="" />[m
+[36m@@ -82,7 +82,7 @@[m
+           </div>[m
+         </div>[m
+ [m
+[31m-        <div class="class-img-two wow animate__animated animate__jackInTheBox">[m
+[32m+[m[32m        <div class="class-img-two">[m
+           <div class="wrapper-class-img-two">[m
+             <figure>[m
+               <img src="images/class-2.png" alt="" srcset="" />[m
+[36m@@ -93,7 +93,7 @@[m
+           </div>[m
+         </div>[m
+ [m
+[31m-        <div class="class-text-two wow animate__animated animate__jackInTheBox">[m
+[32m+[m[32m        <div class="class-text-two">[m
+           <div class="wrapper-text-two">[m
+             <h4 class="class-text__title">Parents, and text alignment</h4>[m
+             <p class="class-text__p">[m
+[36m@@ -107,7 +107,7 @@[m
+       </section>[m
+ [m
+       <section class="layout-tip">[m
+[31m-        <div class="layout-img-container wow animate__animated animate__lightSpeedInLeft ">[m
+[32m+[m[32m        <div class="layout-img-container">[m
+           <h4>Layout tip</h4>[m
+           <p class="layout-p">[m
+             Change the layout direction of a flexbox element from horizontal to[m
